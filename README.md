@@ -1,4 +1,4 @@
-# GoCheap Türkiye README
+# GoCheap Türkiye
 
 ## Genel Bakış
 GoCheap, tüm kullanıcılarına zahmetsiz çalışma ve öğrenim vizesi hizmet seçenekleri sunmayı hedefleyen bir platformdur. Stresten uzak çözümler arayanlar için tasarlanmış bir web sitesi olarak, kullanıcı dostu arayüzü ve geniş hizmet yelpazesi ile dikkat çeker. Amacımız, kaliteli hizmetleri en stressiz şekilde müşterilerimize ulaştırmaktır.
